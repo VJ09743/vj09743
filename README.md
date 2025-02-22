@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there
+I'm a student, currently trying for the International Olympiad in Informatics. Made it to the second round, trying to get to the third. I have experience in Python, and I am currently learning C++.
 <!--
 **VJ09743/vj09743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
